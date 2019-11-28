@@ -576,3 +576,1290 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.28-03.46.33:169][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2019.11.28-03.46.33:195][  0]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2019.11.28-03.47.47:505][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-04.09.03:043][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-04.09.05:517][745]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.28-04.09.05:551][745]LogSlate: Took 0.033022 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.11.28-04.09.05:704][745]LogAIModule: Creating AISystem for world PNStage01_Top
+[2019.11.28-04.09.05:722][745]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top
+[2019.11.28-04.09.05:783][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.28-04.09.05:827][745]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-04.09.05:827][745]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.05:827][745]LoadErrors: New page: マップをロード中: PNStage01_Top.umap
+[2019.11.28-04.09.05:953][745]MapCheck: New page: マップをチェック
+[2019.11.28-04.09.05:953][745]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.06:131][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.11.28-04.09.06:153][745]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-04.09.06:181][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.11.28-04.09.06:211][745]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-04.09.06:211][745]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.142ミリ秒かかりました。
+[2019.11.28-04.09.06:211][745]LogFileHelpers: Loading map 'PNStage01_Top' took 0.427
+[2019.11.28-04.09.28:165][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-04.09.32:759][829]LogAIModule: Creating AISystem for world Minimal_Default
+[2019.11.28-04.09.32:820][829]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2019.11.28-04.09.32:846][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.28-04.09.32:848][829]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-04.09.32:848][829]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.32:848][829]LoadErrors: New page: マップをロード中: Minimal_Default.umap
+[2019.11.28-04.09.32:849][829]MapCheck: New page: マップをチェック
+[2019.11.28-04.09.32:849][829]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.32:883][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.28-04.09.32:901][829]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-04.09.32:927][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.28-04.09.32:938][829]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-04.09.32:938][829]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.144ミリ秒かかりました。
+[2019.11.28-04.09.32:938][829]LogFileHelpers: Loading map 'Minimal_Default' took 0.091
+[2019.11.28-04.09.40:602][964]LogAIModule: Creating AISystem for world StarterMap
+[2019.11.28-04.09.40:759][964]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2019.11.28-04.09.40:789][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.28-04.09.40:790][964]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-04.09.40:790][964]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.40:791][964]LoadErrors: New page: マップをロード中: StarterMap.umap
+[2019.11.28-04.09.40:791][964]MapCheck: New page: マップをチェック
+[2019.11.28-04.09.40:791][964]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.40:817][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.11.28-04.09.40:978][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-04.09.41:003][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.28-04.09.41:016][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-04.09.41:017][964]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.24ミリ秒かかりました。
+[2019.11.28-04.09.41:017][964]LogFileHelpers: Loading map 'StarterMap' took 0.228
+[2019.11.28-04.09.50:113][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-04.09.51:368][876]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2019.11.28-04.09.51:478][876]LogAssetEditorManager: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2019.11.28-04.09.51:508][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.28-04.09.51:510][876]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-04.09.51:510][876]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.51:511][876]LoadErrors: New page: マップをロード中: Advanced_Lighting.umap
+[2019.11.28-04.09.51:513][876]MapCheck: New page: マップをチェック
+[2019.11.28-04.09.51:513][876]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.09.51:542][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.11.28-04.09.51:547][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-04.09.51:576][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.28-04.09.51:587][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-04.09.51:587][876]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.132ミリ秒かかりました。
+[2019.11.28-04.09.51:587][876]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.079
+[2019.11.28-04.10.13:223][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-04.10.16:041][689]LogAIModule: Creating AISystem for world PNStage01_Top
+[2019.11.28-04.10.16:047][689]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top
+[2019.11.28-04.10.16:076][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.11.28-04.10.16:077][689]Cmd: MAP LOAD FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.28-04.10.16:078][689]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.10.16:078][689]LoadErrors: New page: マップをロード中: PNStage01_Top.umap
+[2019.11.28-04.10.16:079][689]MapCheck: New page: マップをチェック
+[2019.11.28-04.10.16:079][689]LightingResults: New page: ライティングのビルド
+[2019.11.28-04.10.16:107][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.28-04.10.16:117][689]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.28-04.10.16:146][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.11.28-04.10.16:158][689]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.28-04.10.16:158][689]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.146ミリ秒かかりました。
+[2019.11.28-04.10.16:158][689]LogFileHelpers: Loading map 'PNStage01_Top' took 0.083
+[2019.11.28-04.10.26:430][733]LogEditorViewport: Clicking Background
+[2019.11.28-04.10.40:549][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-04.10.43:734][726]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2019.11.28-04.10.43:758][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-04.10.43:790][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-04.10.43:807][726]PIE: New page: PIEセッション: PNStage01_Top (2019/11/28 22:10:43)
+[2019.11.28-04.10.43:953][726]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2019.11.28-04.10.43:980][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027075s)
+[2019.11.28-04.10.43:981][726]LogAIModule: Creating AISystem for world PNStage01_Top
+[2019.11.28-04.10.44:000][726]LogPlayLevel: PIE: World Init took: (0.019616s)
+[2019.11.28-04.10.44:000][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.047299s)
+[2019.11.28-04.10.44:028][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.28-04.10.44:079][726]LogInit: XAudio2 using 'スピーカー / ヘッドフォン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-04.10.44:108][726]LogInit: FAudioDevice initialized.
+[2019.11.28-04.10.44:151][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-04.10.44:299][726]LogLoad: Game class is 'GameModeBase'
+[2019.11.28-04.10.44:439][726]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 0) at 2019.11.28-13.10.44
+[2019.11.28-04.10.44:440][726]LogWorld: Bringing up level for play took: 0.001688
+[2019.11.28-04.10.44:669][726]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.11.28-04.10.44:791][726]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 1.611のプレイ イン エディタの開始時間
+[2019.11.28-04.10.44:792][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-04.10.44:936][727]LogRenderer: Reallocating scene render targets to support 1272x688 Format 10 NumSamples 1 (Frame:1).
+[2019.11.28-04.11.28:994][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-04.11.29:032][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-04.11.29:048][938]LogSlate: Window 'PaperNinja ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.11.28-04.11.29:119][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-04.11.29:119][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-04.11.29:227][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.28-04.11.29:257][939]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.28-04.11.30:786][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23199453f70 [can pipeline])
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Re-using existing connection! (#24) with host datarouter.ol.epicgames.com)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.88.130.39) port 443 (#24))
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 7 (Closing connection 24)
+[2019.11.28-05.07.59:503][196]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.09.59:908][555]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.09.59:908][555]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.09.59:908][555]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 25)
+[2019.11.28-05.10.00:248][556]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.12.00:689][915]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.12.00:689][915]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.12.00:689][915]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 26)
+[2019.11.28-05.12.01:022][916]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.14.01:406][275]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.14.01:406][275]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.14.01:406][275]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 27)
+[2019.11.28-05.14.01:739][276]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.16.12:920][667]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.16.12:920][667]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.16.12:920][667]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 28)
+[2019.11.28-05.16.13:255][668]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.18.24:405][ 59]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.18.24:405][ 59]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.18.24:405][ 59]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 29)
+[2019.11.28-05.18.24:739][ 60]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.20.35:807][451]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.20.35:807][451]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.20.35:807][451]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 30)
+[2019.11.28-05.20.36:139][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.22.36:595][811]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.22.36:595][811]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.22.36:595][811]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 31)
+[2019.11.28-05.22.36:932][812]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.24.37:396][171]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.24.37:396][171]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.24.37:396][171]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 32)
+[2019.11.28-05.24.37:729][172]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.26.38:114][531]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.26.38:114][531]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.26.38:114][531]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 33)
+[2019.11.28-05.26.38:446][532]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.28.49:673][923]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.28.49:673][923]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.28.49:673][923]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 34)
+[2019.11.28-05.28.50:006][924]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.31.02:120][318]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.31.02:120][318]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.31.02:120][318]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 35)
+[2019.11.28-05.31.02:120][318]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.33.02:570][677]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.33.02:570][677]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.33.02:570][677]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 36)
+[2019.11.28-05.33.02:910][678]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.35.08:378][ 52]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.35.08:378][ 52]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.35.08:378][ 52]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 37)
+[2019.11.28-05.35.08:378][ 52]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.37.08:822][411]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.37.08:822][411]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.37.08:822][411]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 38)
+[2019.11.28-05.37.09:159][412]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.39.09:632][771]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.39.09:632][771]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.39.09:632][771]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 39)
+[2019.11.28-05.39.09:971][772]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.41.10:417][131]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.41.10:417][131]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.41.10:417][131]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 40)
+[2019.11.28-05.41.10:753][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.43.11:340][491]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.43.11:340][491]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.43.11:340][491]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 41)
+[2019.11.28-05.43.11:674][492]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.45.12:110][851]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.45.12:110][851]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.45.12:110][851]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 42)
+[2019.11.28-05.45.12:446][852]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.47.12:963][211]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.47.12:963][211]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.47.12:963][211]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 43)
+[2019.11.28-05.47.13:296][212]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.49.13:808][571]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.49.13:808][571]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.49.13:808][571]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 44)
+[2019.11.28-05.49.14:145][572]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.51.14:648][931]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.51.14:648][931]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.51.14:648][931]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 45)
+[2019.11.28-05.51.14:985][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.53.27:383][326]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.53.27:383][326]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.53.27:383][326]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 46)
+[2019.11.28-05.53.27:383][326]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.55.39:602][720]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.55.39:602][720]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.55.39:602][720]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 47)
+[2019.11.28-05.55.39:602][720]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.57.40:053][ 79]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.57.40:053][ 79]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.57.40:053][ 79]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 48)
+[2019.11.28-05.57.40:387][ 80]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-05.59.40:803][439]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-05.59.40:803][439]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-05.59.40:803][439]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 49)
+[2019.11.28-05.59.41:139][440]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.01.41:585][799]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.01.41:585][799]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.01.41:585][799]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 50)
+[2019.11.28-06.01.41:918][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.03.42:284][159]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.03.42:284][159]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.03.42:284][159]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 51)
+[2019.11.28-06.03.42:621][160]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.05.54:800][554]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.05.54:800][554]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.05.54:800][554]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 52)
+[2019.11.28-06.05.54:801][554]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.08.06:967][948]LogHttp: Warning: 00000231CB839E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.08.06:967][948]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.08.06:967][948]LogHttp: Warning: 00000231CB839E40: libcurl info message cache 1 (Closing connection 53)
+[2019.11.28-06.08.06:967][948]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.08.16:946][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.08.16:989][438]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2019.11.28-06.08.17:051][438]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-06.08.17:052][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.28-06.08.17:052][438]PIE: New page: PIEセッション: PNStage01_Top (2019/11/29 0:08:17)
+[2019.11.28-06.08.17:067][438]LogPlayLevel: Creating play world package: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top
+[2019.11.28-06.08.17:103][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018841s)
+[2019.11.28-06.08.17:115][438]LogAIModule: Creating AISystem for world PNStage01_Top
+[2019.11.28-06.08.17:117][438]LogPlayLevel: PIE: World Init took: (0.013581s)
+[2019.11.28-06.08.17:117][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage01/PNStage01_Top.PNStage01_Top to /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top (0.050759s)
+[2019.11.28-06.08.17:347][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.11.28-06.08.17:359][438]LogInit: XAudio2 using 'スピーカー / ヘッドフォン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.28-06.08.17:383][438]LogInit: FAudioDevice initialized.
+[2019.11.28-06.08.17:476][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-06.08.17:577][438]LogLoad: Game class is 'GameModeBase'
+[2019.11.28-06.08.17:593][438]LogWorld: Bringing World /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top.PNStage01_Top up for play (max tick rate 60) at 2019.11.28-15.08.17
+[2019.11.28-06.08.17:593][438]LogWorld: Bringing up level for play took: 0.001829
+[2019.11.28-06.08.17:832][438]PIE: /Game/Maps/Stage01/UEDPIE_0_PNStage01_Top 0.653のプレイ イン エディタの開始時間
+[2019.11.28-06.08.17:833][438]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-06.08.37:664][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-06.08.37:665][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.28-06.08.37:676][604]LogSlate: Window 'PaperNinja ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.11.28-06.08.37:720][604]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.28-06.08.37:720][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top' with GeneratedClass '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top_C' with ClassGeneratedBy '/Game/Maps/Stage01/PNStage01_Top.PNStage01_Top:PersistentLevel.PNStage01_Top'
+[2019.11.28-06.08.37:758][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.28-06.08.37:849][605]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.28-06.09.26:727][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.10.00:620][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.10.00:670][ 84]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Pillar.fbx)
+[2019.11.28-06.10.00:843][ 84]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Pillar.fbx
+[2019.11.28-06.10.00:887][ 84]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.11.50:354][ 84]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.11.50:473][ 84]LogFbx: Display: Triangulating static mesh SM_Pillar
+[2019.11.28-06.11.50:492][ 84]LogFbx: Warning: Triangulating mesh UCX_SM_Pillar for collision model
+[2019.11.28-06.11.50:622][ 84]LogStaticMesh: スタティックメッシュ SM_Pillar をビルド中...
+[2019.11.28-06.11.50:643][ 84]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Pillar.SM_Pillar
+[2019.11.28-06.11.50:738][ 85]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.28-06.12.01:902][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Pillar" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Pillar.uasset" SILENT=true
+[2019.11.28-06.12.01:945][727]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_PillarCB40929D49A137B293784FBBC33370EC.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Pillar.uasset'
+[2019.11.28-06.12.02:776][777]LogHttp: Warning: 00000231CB838400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.12.02:776][777]LogHttp: Warning: 00000231CB838400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.12.02:776][777]LogHttp: Warning: 00000231CB838400: libcurl info message cache 1 (Closing connection 54)
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: 00000231CB838540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: 00000231CB838540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23199453f70 [serially])
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: 00000231CB838540: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: 00000231CB838540: libcurl info message cache 2 (Closing connection 55)
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.12.02:792][778]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.12.33:140][595]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.402 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.28-06.12.49:304][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.13.48:920][ 91]LogMaterial: Display: Missing cached shader map for material M_Pillar, compiling. 
+[2019.11.28-06.13.56:973][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/M_Pillar" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/M_Pillar.uasset" SILENT=true
+[2019.11.28-06.13.56:988][496]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_Pillar29FF5B9C4514617BCB9765BC57EDC6AA.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/M_Pillar.uasset'
+[2019.11.28-06.14.10:492][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Pillar" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Pillar.uasset" SILENT=true
+[2019.11.28-06.14.10:507][290]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_Pillar364EDFCC424CBE51F5312A8660431868.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Pillar.uasset'
+[2019.11.28-06.14.10:650][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.28-06.14.10:682][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.28-06.14.10:707][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.11.28-06.14.33:187][635]LogHttp: Warning: 00000231CB83A5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.14.33:188][635]LogHttp: Warning: 00000231CB83A5C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.14.33:188][635]LogHttp: Warning: 00000231CB83A5C0: libcurl info message cache 1 (Closing connection 56)
+[2019.11.28-06.14.33:203][636]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.14.43:417][245]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Architecture/SM_Pillar.SM_Pillar
+[2019.11.28-06.14.45:188][245]LogSlate: Took 0.034149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.28-06.16.42:663][133]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:5874).
+[2019.11.28-06.16.43:697][195]LogSlate: Window 'SM_Pillar' being destroyed
+[2019.11.28-06.16.45:248][287]LogHttp: Warning: 00000231D91FC540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.16.45:248][287]LogHttp: Warning: 00000231D91FC540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.16.45:248][287]LogHttp: Warning: 00000231D91FC540: libcurl info message cache 1 (Closing connection 57)
+[2019.11.28-06.16.45:265][288]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.18.45:294][471]LogHttp: Warning: 00000231CB83AFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.18.45:294][471]LogHttp: Warning: 00000231CB83AFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.18.45:294][471]LogHttp: Warning: 00000231CB83AFC0: libcurl info message cache 1 (Closing connection 58)
+[2019.11.28-06.18.45:309][472]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.19.04:176][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.28-06.19.04:176][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.030
+[2019.11.28-06.19.04:178][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Pillar] ([1] browsable assets)...
+[2019.11.28-06.19.04:220][592]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Pillar.SM_Pillar]
+[2019.11.28-06.19.04:220][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Pillar]
+[2019.11.28-06.19.04:241][592]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Pillar_Auto136464A514E245B75D9B3CCB37BF78EC1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Pillar_Auto1.uasset'
+[2019.11.28-06.19.04:242][592]LogFileHelpers: Auto-saving content packages took 0.065
+[2019.11.28-06.19.09:029][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Pillar" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Pillar.uasset" SILENT=true
+[2019.11.28-06.19.09:036][873]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Pillar44BC85CF4CE32AE0C0FEC19CA6914EB5.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Pillar.uasset'
+[2019.11.28-06.20.45:334][631]LogHttp: Warning: 00000232197D1300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.20.45:334][631]LogHttp: Warning: 00000232197D1300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.20.45:334][631]LogHttp: Warning: 00000232197D1300: libcurl info message cache 1 (Closing connection 59)
+[2019.11.28-06.20.45:352][632]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.22.57:388][536]LogHttp: Warning: 00000232197D07C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.22.57:388][536]LogHttp: Warning: 00000232197D07C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.22.57:388][536]LogHttp: Warning: 00000232197D07C0: libcurl info message cache 1 (Closing connection 60)
+[2019.11.28-06.22.57:388][536]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.24.18:134][948]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx)
+[2019.11.28-06.24.18:148][948]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx
+[2019.11.28-06.24.18:168][948]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.25.04:306][948]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.25.04:333][948]LogFbx: Display: Triangulating static mesh pCylinder1
+[2019.11.28-06.25.04:368][948]LogStaticMesh: スタティックメッシュ SM_Coin をビルド中...
+[2019.11.28-06.25.04:379][948]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Coin.SM_Coin
+[2019.11.28-06.25.04:494][951]LogHttp: Warning: 000002320B16F100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.25.04:494][951]LogHttp: Warning: 000002320B16F100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.25.04:494][951]LogHttp: Warning: 000002320B16F100: libcurl info message cache 1 (Closing connection 61)
+[2019.11.28-06.25.04:607][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.25.15:102][580]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Coin.SM_Coin
+[2019.11.28-06.25.33:145][545]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (28.731 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.28-06.25.50:747][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Coin" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Coin.uasset" SILENT=true
+[2019.11.28-06.25.50:766][541]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Coin8F86C3364FE449F3A66768BD6C606D08.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Coin.uasset'
+[2019.11.28-06.26.13:381][147]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx)
+[2019.11.28-06.26.13:398][147]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx
+[2019.11.28-06.26.13:406][147]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.26.24:010][147]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.26.24:043][147]LogFbx: Display: Triangulating static mesh group3
+[2019.11.28-06.26.24:081][147]LogStaticMesh: スタティックメッシュ SM_Scroll をビルド中...
+[2019.11.28-06.26.24:091][147]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Scroll.SM_Scroll
+[2019.11.28-06.26.25:359][195]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Scroll.SM_Scroll
+[2019.11.28-06.26.39:328][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Scroll" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Scroll.uasset" SILENT=true
+[2019.11.28-06.26.39:346][759]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Scroll2D6B9B394392073442148BABCA877FF1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Scroll.uasset'
+[2019.11.28-06.27.04:671][566]LogHttp: Warning: 000002324ED64900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.27.04:671][566]LogHttp: Warning: 000002324ED64900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.27.04:671][566]LogHttp: Warning: 000002324ED64900: libcurl info message cache 1 (Closing connection 62)
+[2019.11.28-06.27.04:671][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.27.45:881][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx)
+[2019.11.28-06.27.45:896][ 96]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2019.11.28-06.27.45:904][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.28.09:728][ 96]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.28.09:793][ 96]LogFbx: Display: Triangulating static mesh SM_Wall_M2
+[2019.11.28-06.28.09:801][ 96]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2019.11.28-06.28.09:818][ 96]LogStaticMesh: スタティックメッシュ SM_Wall をビルド中...
+[2019.11.28-06.28.09:821][ 96]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall.SM_Wall
+[2019.11.28-06.28.11:408][142]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Architecture/SM_Wall.SM_Wall
+[2019.11.28-06.28.33:161][795]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (23.304 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.28-06.28.49:101][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.29.16:731][116]LogHttp: Warning: 0000023256288A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.29.16:731][116]LogHttp: Warning: 0000023256288A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.29.16:731][116]LogHttp: Warning: 0000023256288A40: libcurl info message cache 1 (Closing connection 63)
+[2019.11.28-06.29.16:731][116]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.29.29:218][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2019.11.28-06.29.29:218][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.057
+[2019.11.28-06.29.29:219][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Architecture/SM_Wall] ([1] browsable assets)...
+[2019.11.28-06.29.29:244][518]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Architecture/SM_Wall.SM_Wall]
+[2019.11.28-06.29.29:244][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Architecture/SM_Wall]
+[2019.11.28-06.29.29:244][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.28-06.29.29:262][518]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Wall_Auto23E8C22524C7AD5C5B6D2A1B8A830CC96.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Architecture/SM_Wall_Auto2.uasset'
+[2019.11.28-06.29.29:264][518]LogFileHelpers: Auto-saving content packages took 0.045
+[2019.11.28-06.31.28:797][460]LogHttp: Warning: 00000232562891C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.31.28:797][460]LogHttp: Warning: 00000232562891C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.31.28:797][460]LogHttp: Warning: 00000232562891C0: libcurl info message cache 1 (Closing connection 64)
+[2019.11.28-06.31.28:797][460]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.31.29:129][474]LogEditorFactories: Performing atomic reimport of [C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx]
+[2019.11.28-06.31.29:181][474]LogFbx: Loading FBX Scene from C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall.fbx
+[2019.11.28-06.31.29:190][474]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.31.29:202][474]LogFbx: Display: Triangulating static mesh SM_Wall_M2
+[2019.11.28-06.31.29:209][474]LogFbx: Warning: Triangulating mesh UCX_SM_Wall_M2 for collision model
+[2019.11.28-06.31.29:236][474]LogStaticMesh: スタティックメッシュ SM_Wall をビルド中...
+[2019.11.28-06.31.29:240][474]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall.SM_Wall
+[2019.11.28-06.31.29:250][474]LogEditorFactories: -- imported successfully
+[2019.11.28-06.32.31:089][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.32.34:297][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Wall.uasset" SILENT=true
+[2019.11.28-06.32.34:313][500]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Wall42C825E84A07FEE1A956B9B35F19CB01.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Wall.uasset'
+[2019.11.28-06.33.07:639][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_01.tga)
+[2019.11.28-06.33.07:735][725]LogTexture: Display: Building textures: T_Byoubu_01 (AutoDXT, 256X1024)
+[2019.11.28-06.33.08:260][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_02.tga)
+[2019.11.28-06.33.08:268][725]LogTexture: Display: Building textures: T_Byoubu_02 (AutoDXT, 256X1024)
+[2019.11.28-06.33.08:686][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_03.tga)
+[2019.11.28-06.33.08:692][725]LogTexture: Display: Building textures: T_Byoubu_03 (AutoDXT, 256X1024)
+[2019.11.28-06.33.09:171][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_04.tga)
+[2019.11.28-06.33.09:178][725]LogTexture: Display: Building textures: T_Byoubu_04 (AutoDXT, 256X1024)
+[2019.11.28-06.33.09:642][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_05.tga)
+[2019.11.28-06.33.09:648][725]LogTexture: Display: Building textures: T_Byoubu_05 (AutoDXT, 256X1024)
+[2019.11.28-06.33.10:098][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_06.tga)
+[2019.11.28-06.33.10:104][725]LogTexture: Display: Building textures: T_Byoubu_06 (AutoDXT, 256X1024)
+[2019.11.28-06.33.10:554][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Byoubu_side.tga)
+[2019.11.28-06.33.10:558][725]LogTexture: Display: Building textures: T_Byoubu_side (AutoDXT, 64X512)
+[2019.11.28-06.33.10:806][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Cardboard01_N.TGA)
+[2019.11.28-06.33.10:836][725]LogTexture: Display: Building textures: T_Cardboard01_N (BC5, 1024X1024)
+[2019.11.28-06.33.11:055][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Cardboard02_N.TGA)
+[2019.11.28-06.33.11:064][725]LogTexture: Display: Building textures: T_Cardboard02_N (BC5, 128X128)
+[2019.11.28-06.33.11:174][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_CardboardInside_D.TGA)
+[2019.11.28-06.33.11:180][725]LogTexture: Display: Building textures: T_CardboardInside_D (AutoDXT, 512X512)
+[2019.11.28-06.33.11:600][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_CardboardSide02_D.TGA)
+[2019.11.28-06.33.11:605][725]LogTexture: Display: Building textures: T_CardboardSide02_D (AutoDXT, 512X128)
+[2019.11.28-06.33.11:699][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_CardboardSide02_N.tga)
+[2019.11.28-06.33.11:707][725]LogTexture: Display: Building textures: T_CardboardSide02_N (BC5, 512X128)
+[2019.11.28-06.33.11:775][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_FlatDummy_N.tga)
+[2019.11.28-06.33.11:783][725]LogTexture: Display: Building textures: T_FlatDummy_N (BC5, 256X256)
+[2019.11.28-06.33.11:975][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Floor01_D.tga)
+[2019.11.28-06.33.11:991][725]LogTexture: Display: Building textures: T_Floor01_D (AutoDXT, 1024X1024)
+[2019.11.28-06.33.12:311][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Floor01_Side_D.tga)
+[2019.11.28-06.33.12:314][725]LogTexture: Display: Building textures: T_Floor01_Side_D (AutoDXT, 512X128)
+[2019.11.28-06.33.12:431][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Floor01_Side_N.tga)
+[2019.11.28-06.33.12:440][725]LogTexture: Display: Building textures: T_Floor01_Side_N (BC5, 512X128)
+[2019.11.28-06.33.12:731][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Fusuma01_D.tga)
+[2019.11.28-06.33.12:768][725]LogTexture: Display: Building textures: T_Fusuma01_D (AutoDXT, 2048X1024)
+[2019.11.28-06.33.15:825][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_IronFloor01_D.tga)
+[2019.11.28-06.33.15:831][725]LogTexture: Display: Building textures: T_IronFloor01_D (AutoDXT, 512X512)
+[2019.11.28-06.33.23:834][725]LogSlate: Window 'メッセージ' being destroyed
+[2019.11.28-06.33.24:243][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Tatami_Loop_D.tga)
+[2019.11.28-06.33.24:315][725]LogTexture: Display: Building textures: T_Tatami_Loop_D (AutoDXT, 2048X2048)
+[2019.11.28-06.33.31:858][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Tatami_Loop_N.tga)
+[2019.11.28-06.33.31:897][725]LogTexture: Display: Building textures: T_Tatami_Loop_N (BC5, 2048X2048)
+[2019.11.28-06.33.33:000][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Wall01_D.tga)
+[2019.11.28-06.33.33:047][725]LogTexture: Display: Building textures: T_Wall01_D (AutoDXT, 2048X1024)
+[2019.11.28-06.33.36:130][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_Wall01_M.tga)
+[2019.11.28-06.33.36:181][725]LogTexture: Display: Building textures: T_Wall01_M (AutoDXT, 2048X1024)
+[2019.11.28-06.33.36:323][725]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Textures/T_White_D.tga)
+[2019.11.28-06.33.36:327][725]LogTexture: Display: Building textures: T_White_D (AutoDXT, 128X128)
+[2019.11.28-06.33.36:635][728]LogHttp: Warning: 000002325D376E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.33.36:636][728]LogHttp: Warning: 000002325D376E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.33.36:636][728]LogHttp: Warning: 000002325D376E80: libcurl info message cache 1 (Closing connection 65)
+[2019.11.28-06.33.36:649][728]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.34.40:146][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Bonfire_D.tga)
+[2019.11.28-06.34.40:192][522]LogTexture: Display: Building textures: T_Bonfire_D (AutoDXT, 2048X2048)
+[2019.11.28-06.34.46:302][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Bonfire_M.tga)
+[2019.11.28-06.34.46:383][522]LogTexture: Display: Building textures: T_Bonfire_M (AutoDXT, 2048X2048)
+[2019.11.28-06.34.46:694][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Bonfire_N.tga)
+[2019.11.28-06.34.46:703][522]LogTexture: Display: Building textures: T_Bonfire_N (BC5, 512X512)
+[2019.11.28-06.34.46:995][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Bonfire_R.tga)
+[2019.11.28-06.34.47:062][522]LogTexture: Display: Building textures: T_Bonfire_R (AutoDXT, 2048X2048)
+[2019.11.28-06.34.48:805][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Carton_D.tga)
+[2019.11.28-06.34.48:823][522]LogTexture: Display: Building textures: T_Carton_D (AutoDXT, 1024X1024)
+[2019.11.28-06.34.50:010][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Carton_M.tga)
+[2019.11.28-06.34.50:027][522]LogTexture: Display: Building textures: T_Carton_M (AutoDXT, 1024X1024)
+[2019.11.28-06.34.50:142][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Carton_N.tga)
+[2019.11.28-06.34.50:153][522]LogTexture: Display: Building textures: T_Carton_N (BC5, 512X512)
+[2019.11.28-06.34.50:284][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Carton_S.tga)
+[2019.11.28-06.34.50:306][522]LogTexture: Display: Building textures: T_Carton_S (AutoDXT, 512X512)
+[2019.11.28-06.34.50:633][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Coin01_D.tga)
+[2019.11.28-06.34.50:639][522]LogTexture: Display: Building textures: T_Coin01_D (AutoDXT, 512X512)
+[2019.11.28-06.34.51:029][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Coin01_N.tga)
+[2019.11.28-06.34.51:039][522]LogTexture: Display: Building textures: T_Coin01_N (BC5, 512X512)
+[2019.11.28-06.34.51:236][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Coin01_R.tga)
+[2019.11.28-06.34.51:245][522]LogTexture: Display: Building textures: T_Coin01_R (AutoDXT, 512X512)
+[2019.11.28-06.34.51:547][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Coin01_S.tga)
+[2019.11.28-06.34.51:553][522]LogTexture: Display: Building textures: T_Coin01_S (AutoDXT, 512X512)
+[2019.11.28-06.34.51:860][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Cylinder100x10_D.tga)
+[2019.11.28-06.34.51:876][522]LogTexture: Display: Building textures: T_Cylinder100x10_D (AutoDXT, 1024X1024)
+[2019.11.28-06.34.52:200][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Cylinder100x10_N.tga)
+[2019.11.28-06.34.52:212][522]LogTexture: Display: Building textures: T_Cylinder100x10_N (BC5, 512X512)
+[2019.11.28-06.34.52:358][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_GearShaft_D.tga)
+[2019.11.28-06.34.52:397][522]LogTexture: Display: Building textures: T_GearShaft_D (AutoDXT, 512X512)
+[2019.11.28-06.34.52:664][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Gear_D.TGA)
+[2019.11.28-06.34.52:678][522]LogTexture: Display: Building textures: T_Gear_D (AutoDXT, 1024X1024)
+[2019.11.28-06.34.52:924][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Scroll_D.tga)
+[2019.11.28-06.34.52:928][522]LogTexture: Display: Building textures: T_Scroll_D (AutoDXT, 512X512)
+[2019.11.28-06.34.53:650][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Shuriken_D.tga)
+[2019.11.28-06.34.53:710][522]LogTexture: Display: Building textures: T_Shuriken_D (AutoDXT, 2048X2048)
+[2019.11.28-06.34.59:436][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Shuriken_MT.tga)
+[2019.11.28-06.34.59:495][522]LogTexture: Display: Building textures: T_Shuriken_MT (AutoDXT, 2048X2048)
+[2019.11.28-06.35.02:116][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Shuriken_N.tga)
+[2019.11.28-06.35.02:154][522]LogTexture: Display: Building textures: T_Shuriken_N (BC5, 2048X2048)
+[2019.11.28-06.35.03:330][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Shuriken_R.tga)
+[2019.11.28-06.35.03:384][522]LogTexture: Display: Building textures: T_Shuriken_R (AutoDXT, 2048X2048)
+[2019.11.28-06.35.05:629][522]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Textures/T_Signboard_D.tga)
+[2019.11.28-06.35.05:643][522]LogTexture: Display: Building textures: T_Signboard_D (AutoDXT, 1024X1024)
+[2019.11.28-06.35.44:959][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Floor.fbx)
+[2019.11.28-06.35.44:975][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Floor.fbx
+[2019.11.28-06.35.44:981][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.24:649][122]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.36.24:719][122]LogFbx: Display: Triangulating static mesh PN_SM_Floor_001
+[2019.11.28-06.36.24:724][122]LogFbx: Warning: Triangulating mesh UCX_PN_SM_Floor_001 for collision model
+[2019.11.28-06.36.24:741][122]LogStaticMesh: スタティックメッシュ SM_Floor をビルド中...
+[2019.11.28-06.36.24:744][122]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Floor.SM_Floor
+[2019.11.28-06.36.24:779][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen.fbx)
+[2019.11.28-06.36.24:793][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen.fbx
+[2019.11.28-06.36.24:799][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.24:801][122]LogFbx: Display: Triangulating static mesh PM_SM_Byoubu_00
+[2019.11.28-06.36.24:809][122]LogFbx: Warning: Triangulating mesh UCX_PM_SM_Byoubu_00 for collision model
+[2019.11.28-06.36.24:815][122]LogStaticMesh: スタティックメッシュ SM_FoldingScreen をビルド中...
+[2019.11.28-06.36.24:819][122]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_FoldingScreen.SM_FoldingScreen
+[2019.11.28-06.36.24:865][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen_25.FBX)
+[2019.11.28-06.36.24:880][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen_25.FBX
+[2019.11.28-06.36.24:888][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.24:890][122]LogFbx: Display: Triangulating static mesh SM_FoldingScreen_25
+[2019.11.28-06.36.24:895][122]LogFbx: Warning: Triangulating mesh UCX_SM_FoldingScreen_25 for collision model
+[2019.11.28-06.36.24:902][122]LogStaticMesh: スタティックメッシュ SM_FoldingScreen_25 をビルド中...
+[2019.11.28-06.36.24:908][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_FoldingScreen_25.SM_FoldingScreen_25
+[2019.11.28-06.36.24:943][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen_50.FBX)
+[2019.11.28-06.36.24:958][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_FoldingScreen_50.FBX
+[2019.11.28-06.36.24:965][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.24:967][122]LogFbx: Display: Triangulating static mesh SM_FoldingScreen_50
+[2019.11.28-06.36.24:973][122]LogFbx: Warning: Triangulating mesh UCX_SM_FoldingScreen_50 for collision model
+[2019.11.28-06.36.24:979][122]LogStaticMesh: スタティックメッシュ SM_FoldingScreen_50 をビルド中...
+[2019.11.28-06.36.24:984][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_FoldingScreen_50.SM_FoldingScreen_50
+[2019.11.28-06.36.25:038][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_01.fbx)
+[2019.11.28-06.36.25:051][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_01.fbx
+[2019.11.28-06.36.25:059][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.25:061][122]LogFbx: Display: Triangulating static mesh Fusuma01
+[2019.11.28-06.36.25:067][122]LogFbx: Warning: Triangulating mesh UCX_Fusuma01 for collision model
+[2019.11.28-06.36.25:073][122]LogStaticMesh: スタティックメッシュ SM_Fusuma02_01 をビルド中...
+[2019.11.28-06.36.25:081][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Fusuma02_01.SM_Fusuma02_01
+[2019.11.28-06.36.25:176][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_02.fbx)
+[2019.11.28-06.36.25:190][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_02.fbx
+[2019.11.28-06.36.25:197][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.25:199][122]LogFbx: Display: Triangulating static mesh Fusuma02
+[2019.11.28-06.36.25:204][122]LogFbx: Warning: Triangulating mesh UCX_Fusuma02 for collision model
+[2019.11.28-06.36.25:210][122]LogStaticMesh: スタティックメッシュ SM_Fusuma02_02 をビルド中...
+[2019.11.28-06.36.25:219][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Fusuma02_02.SM_Fusuma02_02
+[2019.11.28-06.36.25:249][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_03.fbx)
+[2019.11.28-06.36.25:263][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_03.fbx
+[2019.11.28-06.36.25:270][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.25:272][122]LogFbx: Display: Triangulating static mesh Fusuma03
+[2019.11.28-06.36.25:279][122]LogFbx: Warning: Triangulating mesh UCX_Fusuma03 for collision model
+[2019.11.28-06.36.25:284][122]LogStaticMesh: スタティックメッシュ SM_Fusuma02_03 をビルド中...
+[2019.11.28-06.36.25:293][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Fusuma02_03.SM_Fusuma02_03
+[2019.11.28-06.36.25:329][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_04.fbx)
+[2019.11.28-06.36.25:343][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Fusuma02_04.fbx
+[2019.11.28-06.36.25:350][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.25:352][122]LogFbx: Display: Triangulating static mesh Fusuma04
+[2019.11.28-06.36.25:358][122]LogFbx: Warning: Triangulating mesh UCX_Fusuma04 for collision model
+[2019.11.28-06.36.25:364][122]LogStaticMesh: スタティックメッシュ SM_Fusuma02_04 をビルド中...
+[2019.11.28-06.36.25:373][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_Fusuma02_04.SM_Fusuma02_04
+[2019.11.28-06.36.25:401][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_IronFloor.FBX)
+[2019.11.28-06.36.25:416][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_IronFloor.FBX
+[2019.11.28-06.36.27:739][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.27:741][122]LogFbx: Display: Triangulating static mesh tetsukousi01_01
+[2019.11.28-06.36.27:749][122]LogStaticMesh: スタティックメッシュ SM_IronFloor_tetsukousi01_01 をビルド中...
+[2019.11.28-06.36.27:756][122]LogStaticMesh: Built static mesh [0.01s] /Game/Architecture/SM_IronFloor_tetsukousi01_01.SM_IronFloor_tetsukousi01_01
+[2019.11.28-06.36.27:782][122]LogFbx: Display: Triangulating static mesh tetsukousi01_02
+[2019.11.28-06.36.27:792][122]LogStaticMesh: スタティックメッシュ SM_IronFloor_tetsukousi01_02 をビルド中...
+[2019.11.28-06.36.27:824][122]LogStaticMesh: Built static mesh [0.03s] /Game/Architecture/SM_IronFloor_tetsukousi01_02.SM_IronFloor_tetsukousi01_02
+[2019.11.28-06.36.29:340][122]LogSlate: Window 'メッセージ' being destroyed
+[2019.11.28-06.36.29:367][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Plane128x128.fbx)
+[2019.11.28-06.36.29:383][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Plane128x128.fbx
+[2019.11.28-06.36.29:395][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.29:398][122]LogFbx: Display: Triangulating static mesh pPlane1
+[2019.11.28-06.36.29:509][122]LogStaticMesh: スタティックメッシュ SM_Plane128x128_pPlane1 をビルド中...
+[2019.11.28-06.36.29:528][122]LogStaticMesh: Built static mesh [0.02s] /Game/Architecture/SM_Plane128x128_pPlane1.SM_Plane128x128_pPlane1
+[2019.11.28-06.36.29:575][122]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall01_Large.fbx)
+[2019.11.28-06.36.29:588][122]LogFbx: Loading FBX Scene from ../../../../../../UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Architecture/Meshes/SM_Wall01_Large.fbx
+[2019.11.28-06.36.29:614][122]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.36.29:640][122]LogFbx: Display: Triangulating static mesh SM_Wall_M
+[2019.11.28-06.36.29:648][122]LogStaticMesh: スタティックメッシュ SM_Wall01_Large_SM_Wall_M をビルド中...
+[2019.11.28-06.36.29:653][122]LogStaticMesh: Built static mesh [0.00s] /Game/Architecture/SM_Wall01_Large_SM_Wall_M.SM_Wall01_Large_SM_Wall_M
+[2019.11.28-06.36.33:135][217]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.347 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.28-06.36.41:832][472]LogHttp: Warning: 0000023202E36AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E36AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E36AC0: libcurl info message cache 1 (Closing connection 66)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E34540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E34540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23199453f70 [serially])
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E34540: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: 0000023202E34540: libcurl info message cache 2 (Closing connection 67)
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.36.41:833][472]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.38.13:663][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.11.28-06.38.14:735][132]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/PNStage01_Top20BC167A42316D7FE7C9E793B9D96100.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2019.11.28-06.38.20:238][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2019.11.28-06.38.20:282][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_01" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_01.uasset" SILENT=true
+[2019.11.28-06.38.20:341][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_019D8935A14FBE15DD80466CAF809A7829.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_01.uasset'
+[2019.11.28-06.38.20:350][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_02" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_02.uasset" SILENT=true
+[2019.11.28-06.38.20:422][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_023658A130425439BB7E20D78941C2BDDB.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_02.uasset'
+[2019.11.28-06.38.20:433][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_03" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_03.uasset" SILENT=true
+[2019.11.28-06.38.20:505][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_03F46222994B46A242E0861BA29EB282D2.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_03.uasset'
+[2019.11.28-06.38.20:515][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_04" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_04.uasset" SILENT=true
+[2019.11.28-06.38.20:578][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_04361FDA9C400E22CE4C854D89F821F129.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_04.uasset'
+[2019.11.28-06.38.20:588][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_05" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_05.uasset" SILENT=true
+[2019.11.28-06.38.20:651][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_0514B8F209403F9A90A52B3792CBB5BC9B.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_05.uasset'
+[2019.11.28-06.38.20:662][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_06" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_06.uasset" SILENT=true
+[2019.11.28-06.38.20:724][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_06042F374E419AB07576AEB8ADAB8FFBA9.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_06.uasset'
+[2019.11.28-06.38.20:732][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Byoubu_side" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_side.uasset" SILENT=true
+[2019.11.28-06.38.20:744][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Byoubu_side5F5E8E864DCBBEA55D25E094FA326996.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Byoubu_side.uasset'
+[2019.11.28-06.38.20:761][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Cardboard01_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Cardboard01_N.uasset" SILENT=true
+[2019.11.28-06.38.20:960][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Cardboard01_NC1B2C6954F32EB0DF8893FB77E3F8AE1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Cardboard01_N.uasset'
+[2019.11.28-06.38.20:972][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Cardboard02_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Cardboard02_N.uasset" SILENT=true
+[2019.11.28-06.38.20:980][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Cardboard02_ND1FB50BD44E7E74761E774948161C86A.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Cardboard02_N.uasset'
+[2019.11.28-06.38.21:055][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_CardboardInside_D0800733B420CCAF8E01E7EAE605F5BC8.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_CardboardInside_D.uasset'
+[2019.11.28-06.38.21:076][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_CardboardSide02_DCE85E1E54023FE0D8176ACB21395DDE1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_CardboardSide02_D.uasset'
+[2019.11.28-06.38.21:105][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_CardboardSide02_N23CC725C4376A09F15CA17B0E98E6D9B.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_CardboardSide02_N.uasset'
+[2019.11.28-06.38.21:123][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_FlatDummy_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_FlatDummy_N.uasset" SILENT=true
+[2019.11.28-06.38.21:129][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_FlatDummy_NE594E07844CFE817D8E1D7A793C08D24.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_FlatDummy_N.uasset'
+[2019.11.28-06.38.21:147][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Floor01_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_D.uasset" SILENT=true
+[2019.11.28-06.38.21:223][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Floor01_D0F7B577449C134DC79A3B8BE9A2F7263.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_D.uasset'
+[2019.11.28-06.38.21:236][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Floor01_Side_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_Side_D.uasset" SILENT=true
+[2019.11.28-06.38.21:246][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Floor01_Side_D1226FCBD490768838D868BA19BE81C96.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_Side_D.uasset'
+[2019.11.28-06.38.21:258][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Floor01_Side_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_Side_N.uasset" SILENT=true
+[2019.11.28-06.38.21:390][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Floor01_Side_N778438FF41B475DA99B6F3B955125E5E.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Floor01_Side_N.uasset'
+[2019.11.28-06.38.21:403][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Fusuma01_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Fusuma01_D.uasset" SILENT=true
+[2019.11.28-06.38.21:761][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Fusuma01_DD47257C047599581EBA06B8DA7B34EA2.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Fusuma01_D.uasset'
+[2019.11.28-06.38.21:783][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_IronFloor01_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_IronFloor01_D.uasset" SILENT=true
+[2019.11.28-06.38.21:801][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_IronFloor01_D1D37A22143F8A482FA97FC9507E0EF98.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_IronFloor01_D.uasset'
+[2019.11.28-06.38.21:818][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Tatami_Loop_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Tatami_Loop_D.uasset" SILENT=true
+[2019.11.28-06.38.22:439][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Tatami_Loop_D86710E9F498F8F76832E1489458D6835.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Tatami_Loop_D.uasset'
+[2019.11.28-06.38.22:456][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Tatami_Loop_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Tatami_Loop_N.uasset" SILENT=true
+[2019.11.28-06.38.23:712][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Tatami_Loop_N410857344841880F6A8E26AD6CB96F3E.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Tatami_Loop_N.uasset'
+[2019.11.28-06.38.23:724][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Wall01_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Wall01_D.uasset" SILENT=true
+[2019.11.28-06.38.24:081][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Wall01_D643E4D1F4ECAACBE4680F5B694EF1413.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Wall01_D.uasset'
+[2019.11.28-06.38.24:092][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_Wall01_M" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Wall01_M.uasset" SILENT=true
+[2019.11.28-06.38.24:173][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Wall01_MAC6C9C1D4D21EACD48DE80A9908C86C4.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_Wall01_M.uasset'
+[2019.11.28-06.38.24:184][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Textures/T_White_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_White_D.uasset" SILENT=true
+[2019.11.28-06.38.24:189][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_White_DE50D38E646F0353DE368E99FFA3B38B1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Textures/T_White_D.uasset'
+[2019.11.28-06.38.24:205][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Bonfire_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_D.uasset" SILENT=true
+[2019.11.28-06.38.24:840][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Bonfire_DC69B0B40462DC2C13AA3838C7A5F0F58.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_D.uasset'
+[2019.11.28-06.38.24:857][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Bonfire_M" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_M.uasset" SILENT=true
+[2019.11.28-06.38.25:015][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Bonfire_M9B9A92BC42425D0F8A28BD850BEB4185.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_M.uasset'
+[2019.11.28-06.38.25:033][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Bonfire_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_N.uasset" SILENT=true
+[2019.11.28-06.38.25:090][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Bonfire_N263FA804470DA6BDF0EA2C8E617694DA.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_N.uasset'
+[2019.11.28-06.38.25:108][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Bonfire_R" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_R.uasset" SILENT=true
+[2019.11.28-06.38.25:534][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Bonfire_R3B57F4734CEF20A9CFE4DFBD9AB7BD56.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Bonfire_R.uasset'
+[2019.11.28-06.38.25:552][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Carton_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_D.uasset" SILENT=true
+[2019.11.28-06.38.25:733][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Carton_DCE6BB5AE4DFC34B40DB93ABFEF71E646.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_D.uasset'
+[2019.11.28-06.38.25:746][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Carton_M" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_M.uasset" SILENT=true
+[2019.11.28-06.38.25:792][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Carton_M0DAEE9FD4E3A8E6D6C0D47B0F24CD89D.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_M.uasset'
+[2019.11.28-06.38.25:808][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Carton_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_N.uasset" SILENT=true
+[2019.11.28-06.38.25:860][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Carton_N4FC80ED248725F6E361EFBB34E27073C.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_N.uasset'
+[2019.11.28-06.38.25:877][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Carton_S" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_S.uasset" SILENT=true
+[2019.11.28-06.38.25:932][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Carton_S92661B9E4F26A7128BFCD98F1973F999.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Carton_S.uasset'
+[2019.11.28-06.38.25:949][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Coin01_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_D.uasset" SILENT=true
+[2019.11.28-06.38.25:998][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Coin01_D34AE55514ED5964B00551CA2A52AE183.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_D.uasset'
+[2019.11.28-06.38.26:016][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Coin01_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_N.uasset" SILENT=true
+[2019.11.28-06.38.26:112][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Coin01_N02BCB9D546B7B308049F53B06EE4D369.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_N.uasset'
+[2019.11.28-06.38.26:129][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Coin01_R" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_R.uasset" SILENT=true
+[2019.11.28-06.38.26:170][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Coin01_R05CA3028426B97A610B2458EE4044F13.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_R.uasset'
+[2019.11.28-06.38.26:187][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Coin01_S" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_S.uasset" SILENT=true
+[2019.11.28-06.38.26:228][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Coin01_S2311AD9E40AFF2DB4C4F28ADF3D80935.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Coin01_S.uasset'
+[2019.11.28-06.38.26:244][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Cylinder100x10_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Cylinder100x10_D.uasset" SILENT=true
+[2019.11.28-06.38.26:376][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Cylinder100x10_D6D3428BF44955D7F868351954F7605DF.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Cylinder100x10_D.uasset'
+[2019.11.28-06.38.26:394][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Cylinder100x10_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Cylinder100x10_N.uasset" SILENT=true
+[2019.11.28-06.38.26:448][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Cylinder100x10_N7E58242E4D3E3070E26F409140FF6DF4.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Cylinder100x10_N.uasset'
+[2019.11.28-06.38.26:464][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_GearShaft_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_GearShaft_D.uasset" SILENT=true
+[2019.11.28-06.38.26:481][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_GearShaft_D4367BE8E47B0518B8878BDA574121C29.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_GearShaft_D.uasset'
+[2019.11.28-06.38.26:497][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Gear_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Gear_D.uasset" SILENT=true
+[2019.11.28-06.38.26:557][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Gear_DF2A55554442A4570719D62866640AC53.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Gear_D.uasset'
+[2019.11.28-06.38.26:573][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Scroll_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Scroll_D.uasset" SILENT=true
+[2019.11.28-06.38.26:628][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Scroll_D6A713B5F4D9FFA1E90DD8E8EB195AE13.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Scroll_D.uasset'
+[2019.11.28-06.38.26:643][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Shuriken_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_D.uasset" SILENT=true
+[2019.11.28-06.38.27:289][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Shuriken_D93DF5A964401B55F70D819A56AFC51D4.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_D.uasset'
+[2019.11.28-06.38.27:305][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Shuriken_MT" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_MT.uasset" SILENT=true
+[2019.11.28-06.38.27:790][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Shuriken_MT93491F94478FDB2FADE93E865F5530F2.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_MT.uasset'
+[2019.11.28-06.38.27:807][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Shuriken_N" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_N.uasset" SILENT=true
+[2019.11.28-06.38.29:016][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Shuriken_N29841EC44CF9DFA069A14482286FA433.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_N.uasset'
+[2019.11.28-06.38.29:033][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Shuriken_R" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_R.uasset" SILENT=true
+[2019.11.28-06.38.29:482][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Shuriken_R23831ACF46F119D46C7C3F8DE26132BA.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Shuriken_R.uasset'
+[2019.11.28-06.38.29:499][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Textures/T_Signboard_D" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Signboard_D.uasset" SILENT=true
+[2019.11.28-06.38.29:561][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/T_Signboard_D9EF173754E60391557588CB097C7E6A5.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Textures/T_Signboard_D.uasset'
+[2019.11.28-06.38.29:610][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Floor" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Floor.uasset" SILENT=true
+[2019.11.28-06.38.29:624][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Floor8B34C7C74E789732B4B4669460164282.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Floor.uasset'
+[2019.11.28-06.38.29:671][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_FoldingScreen" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen.uasset" SILENT=true
+[2019.11.28-06.38.29:686][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_FoldingScreen5383E207469B9121684C8FA07D098BE9.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen.uasset'
+[2019.11.28-06.38.29:731][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_FoldingScreen_25" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen_25.uasset" SILENT=true
+[2019.11.28-06.38.29:745][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_FoldingScreen_25B9B0765A43190FF5955AE895ADEDDF78.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen_25.uasset'
+[2019.11.28-06.38.29:793][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_FoldingScreen_50" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen_50.uasset" SILENT=true
+[2019.11.28-06.38.29:809][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_FoldingScreen_505D39CDAD47E4C3FE0EA93DA931E855A0.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_FoldingScreen_50.uasset'
+[2019.11.28-06.38.29:831][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Fusuma02_01" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_01.uasset" SILENT=true
+[2019.11.28-06.38.29:846][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Fusuma02_01C421A0CD48F621BC5F89888CFD515757.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_01.uasset'
+[2019.11.28-06.38.29:869][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Fusuma02_02" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_02.uasset" SILENT=true
+[2019.11.28-06.38.29:884][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Fusuma02_0252D70CF7495178D3543A3EB27C96D557.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_02.uasset'
+[2019.11.28-06.38.29:908][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Fusuma02_03" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_03.uasset" SILENT=true
+[2019.11.28-06.38.29:923][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Fusuma02_035276CE7A4F202FBCEC0FB0A89CAE884D.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_03.uasset'
+[2019.11.28-06.38.29:947][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Fusuma02_04" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_04.uasset" SILENT=true
+[2019.11.28-06.38.29:962][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Fusuma02_04A180871D446C1F0A863FC2BB031174B1.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Fusuma02_04.uasset'
+[2019.11.28-06.38.29:998][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Wall01_Large_SM_Wall_M" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Wall01_Large_SM_Wall_M.uasset" SILENT=true
+[2019.11.28-06.38.30:013][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Wall01_Large_SM_Wall_ME65B3CF448FA3AA2A3CA85AB99C1359B.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Wall01_Large_SM_Wall_M.uasset'
+[2019.11.28-06.38.30:049][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_IronFloor_tetsukousi01_018BF53C4E4D425EEFF6FB91A7D0519C1F.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_IronFloor_tetsukousi01_01.uasset'
+[2019.11.28-06.38.30:083][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_IronFloor_tetsukousi01_029754F2FC4D2802849A4D7AAEFDDDAB27.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_IronFloor_tetsukousi01_02.uasset'
+[2019.11.28-06.38.30:108][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/SM_Plane128x128_pPlane1" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Plane128x128_pPlane1.uasset" SILENT=true
+[2019.11.28-06.38.30:128][336]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Plane128x128_pPlane1D9C810764645498D4853C3A6D13182BB.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/SM_Plane128x128_pPlane1.uasset'
+[2019.11.28-06.38.53:874][932]LogHttp: Warning: 000002325DF39E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.38.53:874][932]LogHttp: Warning: 000002325DF39E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.38.53:874][932]LogHttp: Warning: 000002325DF39E40: libcurl info message cache 1 (Closing connection 68)
+[2019.11.28-06.38.53:874][932]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.38.58:401][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.11.28-06.39.21:101][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.28-06.41.05:906][390]LogHttp: Warning: 00000231991CC180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.41.05:907][390]LogHttp: Warning: 00000231991CC180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.41.05:907][390]LogHttp: Warning: 00000231991CC180: libcurl info message cache 1 (Closing connection 69)
+[2019.11.28-06.41.05:907][390]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.43.17:975][283]LogHttp: Warning: 00000231991CC180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.43.17:975][283]LogHttp: Warning: 00000231991CC180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.43.17:975][283]LogHttp: Warning: 00000231991CC180: libcurl info message cache 1 (Closing connection 70)
+[2019.11.28-06.43.17:991][284]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.45.14:258][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.45.18:021][456]LogHttp: Warning: 0000023202E347C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.45.18:021][456]LogHttp: Warning: 0000023202E347C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.45.18:021][456]LogHttp: Warning: 0000023202E347C0: libcurl info message cache 1 (Closing connection 71)
+[2019.11.28-06.45.18:021][456]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.45.38:612][294]LogEditorFactories: Performing atomic reimport of [C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx]
+[2019.11.28-06.45.38:655][294]LogFbx: Loading FBX Scene from C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Coin.fbx
+[2019.11.28-06.45.38:662][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.38:664][294]LogFbx: Display: Triangulating static mesh pCylinder1
+[2019.11.28-06.45.38:710][294]LogStaticMesh: スタティックメッシュ SM_Coin をビルド中...
+[2019.11.28-06.45.38:721][294]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Coin.SM_Coin
+[2019.11.28-06.45.38:797][294]LogEditorFactories: -- imported successfully
+[2019.11.28-06.45.38:805][294]LogEditorFactories: Performing atomic reimport of [C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx]
+[2019.11.28-06.45.38:896][294]LogFbx: Loading FBX Scene from C:/UnrealProject/UnrealSample/極本_素材/PaperNinja_Resource/Props/Meshes/SM_Scroll.fbx
+[2019.11.28-06.45.38:904][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.38:906][294]LogFbx: Display: Triangulating static mesh group3
+[2019.11.28-06.45.38:968][294]LogStaticMesh: スタティックメッシュ SM_Scroll をビルド中...
+[2019.11.28-06.45.38:978][294]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Scroll.SM_Scroll
+[2019.11.28-06.45.38:989][294]LogEditorFactories: -- imported successfully
+[2019.11.28-06.45.39:052][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Gear.FBX)
+[2019.11.28-06.45.39:089][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Gear.FBX
+[2019.11.28-06.45.39:118][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:462][294]LogSlate: Window 'FBXインポートオプション' being destroyed
+[2019.11.28-06.45.49:492][294]LogStaticMesh: スタティックメッシュ SM_Gear をビルド中...
+[2019.11.28-06.45.49:504][294]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Gear.SM_Gear
+[2019.11.28-06.45.49:547][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_GearShaft.fbx)
+[2019.11.28-06.45.49:561][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_GearShaft.fbx
+[2019.11.28-06.45.49:569][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:570][294]LogFbx: Display: Triangulating static mesh tree
+[2019.11.28-06.45.49:574][294]LogStaticMesh: スタティックメッシュ SM_GearShaft をビルド中...
+[2019.11.28-06.45.49:576][294]LogStaticMesh: Built static mesh [0.00s] /Game/Props/SM_GearShaft.SM_GearShaft
+[2019.11.28-06.45.49:610][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shape_Cylinder_Base.fbx)
+[2019.11.28-06.45.49:624][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shape_Cylinder_Base.fbx
+[2019.11.28-06.45.49:632][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:634][294]LogFbx: Display: Triangulating static mesh pCylinder3
+[2019.11.28-06.45.49:657][294]LogStaticMesh: スタティックメッシュ SM_Shape_Cylinder_Base をビルド中...
+[2019.11.28-06.45.49:666][294]LogStaticMesh: Built static mesh [0.01s] /Game/Props/SM_Shape_Cylinder_Base.SM_Shape_Cylinder_Base
+[2019.11.28-06.45.49:706][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shape_Cylinder100x10.fbx)
+[2019.11.28-06.45.49:719][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shape_Cylinder100x10.fbx
+[2019.11.28-06.45.49:726][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:728][294]LogFbx: Display: Triangulating static mesh Shape_Cylinder
+[2019.11.28-06.45.49:758][294]LogStaticMesh: スタティックメッシュ SM_Shape_Cylinder100x10 をビルド中...
+[2019.11.28-06.45.49:762][294]LogStaticMesh: Built static mesh [0.00s] /Game/Props/SM_Shape_Cylinder100x10.SM_Shape_Cylinder100x10
+[2019.11.28-06.45.49:790][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shuriken.fbx)
+[2019.11.28-06.45.49:803][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Shuriken.fbx
+[2019.11.28-06.45.49:810][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:812][294]LogFbx: Display: Triangulating static mesh pCube19
+[2019.11.28-06.45.49:844][294]LogStaticMesh: スタティックメッシュ SM_Shuriken をビルド中...
+[2019.11.28-06.45.49:859][294]LogStaticMesh: Built static mesh [0.03s] /Game/Props/SM_Shuriken.SM_Shuriken
+[2019.11.28-06.45.49:871][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Signboard.fbx)
+[2019.11.28-06.45.49:883][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Signboard.fbx
+[2019.11.28-06.45.49:902][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.49:934][294]LogStaticMesh: スタティックメッシュ SM_Signboard をビルド中...
+[2019.11.28-06.45.49:942][294]LogStaticMesh: Built static mesh [0.02s] /Game/Props/SM_Signboard.SM_Signboard
+[2019.11.28-06.45.49:975][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Bonfire.fbx)
+[2019.11.28-06.45.49:989][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Bonfire.fbx
+[2019.11.28-06.45.49:997][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.50:000][294]LogFbx: Display: Triangulating static mesh kagaribi2
+[2019.11.28-06.45.50:084][294]LogStaticMesh: スタティックメッシュ SM_Bonfire をビルド中...
+[2019.11.28-06.45.50:114][294]LogStaticMesh: Built static mesh [0.03s] /Game/Props/SM_Bonfire.SM_Bonfire
+[2019.11.28-06.45.50:154][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Box01.fbx)
+[2019.11.28-06.45.50:167][294]LogFbx: Loading FBX Scene from C:\UnrealProject\UnrealSample\極本_素材\PaperNinja_Resource\Props\Meshes\SM_Box01.fbx
+[2019.11.28-06.45.50:175][294]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.28-06.45.50:177][294]LogFbx: Display: Triangulating static mesh pCube9
+[2019.11.28-06.45.50:184][294]LogStaticMesh: スタティックメッシュ SM_Box01 をビルド中...
+[2019.11.28-06.45.50:188][294]LogStaticMesh: Built static mesh [0.00s] /Game/Props/SM_Box01.SM_Box01
+[2019.11.28-06.45.53:271][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.11.28-06.45.54:551][453]LogSlate: Window 'コンテンツを保存' being destroyed
+[2019.11.28-06.45.54:637][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Bonfire.uasset" SILENT=true
+[2019.11.28-06.45.54:658][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_BonfireA042C7874A70F389622BB09144DC201A.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Bonfire.uasset'
+[2019.11.28-06.45.54:704][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Box01" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Box01.uasset" SILENT=true
+[2019.11.28-06.45.54:721][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Box01E263E3C444D8993643DF60B096777677.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Box01.uasset'
+[2019.11.28-06.45.54:765][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Coin" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Coin.uasset" SILENT=true
+[2019.11.28-06.45.54:783][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Coin30ECE4794C099C408B8AC0BC7361C1C8.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Coin.uasset'
+[2019.11.28-06.45.54:828][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Gear" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Gear.uasset" SILENT=true
+[2019.11.28-06.45.54:843][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_GearB9345F8C4C451694555BD5B086439F08.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Gear.uasset'
+[2019.11.28-06.45.54:889][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_GearShaft" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_GearShaft.uasset" SILENT=true
+[2019.11.28-06.45.54:903][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_GearShaft0D53E46649EDDE1CDC245287F07B4AD9.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_GearShaft.uasset'
+[2019.11.28-06.45.54:948][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Scroll" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Scroll.uasset" SILENT=true
+[2019.11.28-06.45.54:966][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Scroll694CDD8741DBFCE05300CAA28355656C.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Scroll.uasset'
+[2019.11.28-06.45.54:987][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Shape_Cylinder100x10" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset" SILENT=true
+[2019.11.28-06.45.55:002][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Shape_Cylinder100x10B188131A4F951EE500041EA95285BD47.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset'
+[2019.11.28-06.45.55:026][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Shape_Cylinder_Base" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder_Base.uasset" SILENT=true
+[2019.11.28-06.45.55:041][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Shape_Cylinder_BaseB80483BA4B6C2811F971D0A9FC50F02B.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder_Base.uasset'
+[2019.11.28-06.45.55:063][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Shuriken" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shuriken.uasset" SILENT=true
+[2019.11.28-06.45.55:077][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Shuriken9F97EC4242690CE7881E55BF9AB4A89D.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shuriken.uasset'
+[2019.11.28-06.45.55:099][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Signboard" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Signboard.uasset" SILENT=true
+[2019.11.28-06.45.55:113][453]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Signboard3A7D669842CF6CC66279DDB425912851.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Signboard.uasset'
+[2019.11.28-06.46.15:250][609]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Bonfire.SM_Bonfire
+[2019.11.28-06.47.14:277][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.47.18:044][277]LogHttp: Warning: 0000023199842E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.47.18:044][277]LogHttp: Warning: 0000023199842E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.47.18:044][277]LogHttp: Warning: 0000023199842E80: libcurl info message cache 1 (Closing connection 72)
+[2019.11.28-06.47.18:062][278]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.47.28:795][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.48.16:741][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.48.16:795][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.28-06.48.16:796][675]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.030
+[2019.11.28-06.48.16:800][675]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Props/SM_Bonfire] ([1] browsable assets)...
+[2019.11.28-06.48.16:801][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Bonfire]
+[2019.11.28-06.48.16:801][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.11.28-06.48.16:829][675]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Bonfire_Auto327F49C8A4B6453089FD728A298E1E2BB.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto3.uasset'
+[2019.11.28-06.48.16:830][675]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.11.28-06.48.49:148][491]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.48.52:411][641]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.49.04:821][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.49.18:080][ 76]LogHttp: Warning: 000002324865DBC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.49.18:080][ 76]LogHttp: Warning: 000002324865DBC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.49.18:080][ 76]LogHttp: Warning: 000002324865DBC0: libcurl info message cache 1 (Closing connection 73)
+[2019.11.28-06.49.18:080][ 76]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.49.45:420][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.49.45:506][602]Cmd: MODE SCALEGRID=0
+[2019.11.28-06.49.46:434][621]Cmd: MODE SCALEGRID=1
+[2019.11.28-06.49.47:408][676]Cmd: MODE SCALEGRID=0
+[2019.11.28-06.49.48:663][747]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.49.49:749][789]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.49.50:760][825]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.49.51:650][855]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.49.52:878][897]LogEditorTransaction: Undo ボックスコリジョンを作成
+[2019.11.28-06.50.10:569][877]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.50.37:612][387]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.50.46:494][860]LogEditorTransaction: Undo コリジョンを拡大・縮小
+[2019.11.28-06.51.18:102][639]LogHttp: Warning: 0000023285C987C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.51.18:102][639]LogHttp: Warning: 0000023285C987C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.51.18:102][639]LogHttp: Warning: 0000023285C987C0: libcurl info message cache 1 (Closing connection 74)
+[2019.11.28-06.51.18:120][640]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.51.25:454][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.51.48:224][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.51.49:078][381]Cmd: MODE GRID=0
+[2019.11.28-06.51.57:123][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.52.17:700][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.52.54:216][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.52.59:482][372]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.53.05:812][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.53.05:897][738]Cmd: MODE GRID=1
+[2019.11.28-06.53.18:147][432]LogHttp: Warning: 0000023282C76AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.53.18:147][432]LogHttp: Warning: 0000023282C76AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.53.18:147][432]LogHttp: Warning: 0000023282C76AC0: libcurl info message cache 1 (Closing connection 75)
+[2019.11.28-06.53.18:147][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.53.36:127][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.53.40:577][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.53.40:660][709]Cmd: MODE GRID=0
+[2019.11.28-06.53.46:671][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-06.55.18:182][207]LogHttp: Warning: 0000023282C76D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.55.18:182][207]LogHttp: Warning: 0000023282C76D40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.55.18:182][207]LogHttp: Warning: 0000023282C76D40: libcurl info message cache 1 (Closing connection 76)
+[2019.11.28-06.55.18:199][208]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.57.30:238][686]LogHttp: Warning: 0000023282C742C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.57.30:238][686]LogHttp: Warning: 0000023282C742C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.57.30:238][686]LogHttp: Warning: 0000023282C742C0: libcurl info message cache 1 (Closing connection 77)
+[2019.11.28-06.57.30:238][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-06.58.16:892][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-06.58.16:945][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.28-06.58.16:945][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.027
+[2019.11.28-06.58.16:947][337]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Props/SM_Bonfire] ([1] browsable assets)...
+[2019.11.28-06.58.16:947][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/SM_Bonfire]
+[2019.11.28-06.58.16:948][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.11.28-06.58.16:962][337]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Bonfire_Auto4C6CF3A82478B6CC4388F86ABE23A4C1E.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Props/SM_Bonfire_Auto4.uasset'
+[2019.11.28-06.58.16:964][337]LogFileHelpers: Auto-saving content packages took 0.017
+[2019.11.28-06.59.42:300][206]LogHttp: Warning: 0000023282C75940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-06.59.42:300][206]LogHttp: Warning: 0000023282C75940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-06.59.42:300][206]LogHttp: Warning: 0000023282C75940: libcurl info message cache 1 (Closing connection 78)
+[2019.11.28-06.59.42:301][206]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.00.18:094][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-07.00.25:591][391]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Gear.SM_Gear
+[2019.11.28-07.01.36:526][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-07.01.42:361][421]LogHttp: Warning: 000002328E28B240: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.01.42:361][421]LogHttp: Warning: 000002328E28B240: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.01.42:361][421]LogHttp: Warning: 000002328E28B240: libcurl info message cache 1 (Closing connection 79)
+[2019.11.28-07.01.42:386][422]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.01.46:929][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-07.01.48:752][656]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Coin.SM_Coin
+[2019.11.28-07.02.50:496][461]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/SM_Shape_Cylinder100x10.SM_Shape_Cylinder100x10
+[2019.11.28-07.03.23:099][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-07.03.29:690][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-07.03.32:813][551]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-07.03.35:129][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.28-07.03.42:459][835]LogHttp: Warning: 000002329FFC39C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.03.42:459][835]LogHttp: Warning: 000002329FFC39C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.03.42:459][835]LogHttp: Warning: 000002329FFC39C0: libcurl info message cache 1 (Closing connection 80)
+[2019.11.28-07.03.42:501][836]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.04.04:124][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.28-07.04.12:861][725]LogEditorTransaction: Undo 凸型コリジョンを作成
+[2019.11.28-07.05.21:787][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2019.11.28-07.05.23:046][343]LogSlate: Window 'コンテンツを保存' being destroyed
+[2019.11.28-07.05.23:087][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Bonfire.uasset" SILENT=true
+[2019.11.28-07.05.23:105][343]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Bonfire8A57FECE49255CA48D1D0AA7D62D48CF.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Bonfire.uasset'
+[2019.11.28-07.05.23:114][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Gear" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Gear.uasset" SILENT=true
+[2019.11.28-07.05.23:136][343]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Gear95F654AA484C421D3C9855B9B82E81E4.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Gear.uasset'
+[2019.11.28-07.05.23:145][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/SM_Shape_Cylinder100x10" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset" SILENT=true
+[2019.11.28-07.05.23:178][343]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/SM_Shape_Cylinder100x10D49E0537460D2E07F506ECAAC3DCCEB9.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/SM_Shape_Cylinder100x10.uasset'
+[2019.11.28-07.05.54:519][986]LogHttp: Warning: 0000023296EE4540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.05.54:519][986]LogHttp: Warning: 0000023296EE4540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.05.54:519][986]LogHttp: Warning: 0000023296EE4540: libcurl info message cache 1 (Closing connection 81)
+[2019.11.28-07.05.54:519][986]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.06.18:167][599]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.11.28-07.06.29:603][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Floor" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Floor.uasset" SILENT=true
+[2019.11.28-07.06.29:623][935]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_FloorDFF296EA43369EF066F599A98F82A2D5.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Floor.uasset'
+[2019.11.28-07.06.29:762][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.28-07.06.29:799][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.28-07.06.29:826][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.11.28-07.07.03:377][748]LogMaterial: Display: Missing cached shader map for material M_FloorSide, compiling. 
+[2019.11.28-07.07.25:862][306]LogMaterial: Display: Missing cached shader map for material M_Wall, compiling. 
+[2019.11.28-07.07.37:006][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_Wall" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Wall.uasset" SILENT=true
+[2019.11.28-07.07.37:022][662]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_WallABFF75674CFD1A43A0CAC793FEFFF126.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_Wall.uasset'
+[2019.11.28-07.07.37:155][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.11.28-07.07.37:188][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.11.28-07.07.37:215][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.28-07.07.39:934][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Architecture/Materials/M_FloorSide" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset" SILENT=true
+[2019.11.28-07.07.39:950][786]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_FloorSideB4AFA49F43CB6C2A8B72D3B2D651A0EE.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Architecture/Materials/M_FloorSide.uasset'
+[2019.11.28-07.07.40:090][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.28-07.07.40:126][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.28-07.07.40:156][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.28-07.07.54:601][113]LogHttp: Warning: 00000231F0612D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.07.54:601][113]LogHttp: Warning: 00000231F0612D40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.07.54:601][113]LogHttp: Warning: 00000231F0612D40: libcurl info message cache 1 (Closing connection 82)
+[2019.11.28-07.07.54:645][114]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.08.28:592][936]LogMaterial: Display: Missing cached shader map for material M_Bonfire, compiling. 
+[2019.11.28-07.08.52:831][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.28-07.08.52:831][518]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Stage01/PNStage01_Top' took 0.028
+[2019.11.28-07.08.52:833][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Textures/M_Bonfire] ([1] browsable assets)...
+[2019.11.28-07.08.52:849][518]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/Textures/M_Bonfire.M_Bonfire]
+[2019.11.28-07.08.52:849][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Textures/M_Bonfire]
+[2019.11.28-07.08.52:862][518]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_Bonfire_Auto59BB888484B026399E4CEF5B87D46ECEF.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/Autosaves/Game/Props/Textures/M_Bonfire_Auto5.uasset'
+[2019.11.28-07.08.52:864][518]LogFileHelpers: Auto-saving content packages took 0.031
+[2019.11.28-07.09.19:792][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Materials/M_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Materials/M_Bonfire.uasset" SILENT=true
+[2019.11.28-07.09.19:807][526]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_Bonfire65A6C9C84A41471C3934CC88054BF1F7.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Materials/M_Bonfire.uasset'
+[2019.11.28-07.09.19:932][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.28-07.09.19:966][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.11.28-07.09.19:995][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.28-07.09.54:704][310]LogHttp: Warning: 000002326E422C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.09.54:704][310]LogHttp: Warning: 000002326E422C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.09.54:704][310]LogHttp: Warning: 000002326E422C00: libcurl info message cache 1 (Closing connection 83)
+[2019.11.28-07.09.54:705][310]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.28-07.10.17:564][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Materials/M_Bonfire" FILE="../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Materials/M_Bonfire.uasset" SILENT=true
+[2019.11.28-07.10.17:617][800]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/M_Bonfire0AF0A2D34D17E492F275EC863FAD81B9.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Props/Materials/M_Bonfire.uasset'
+[2019.11.28-07.10.18:793][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.28-07.10.18:904][826]LogSavePackage: Moving '../../../../../../UnrealProject/UnrealSample/PaperNinja/Saved/PNStage01_Top87BFAAB94033010F0E6CF089489C63CB.tmp' to '../../../../../../UnrealProject/UnrealSample/PaperNinja/Content/Maps/Stage01/PNStage01_Top.umap'
+[2019.11.28-07.10.24:852][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.28-07.10.27:894][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.28-07.10.29:194][147]LogSlate: Window 'PaperNinja - Unreal Editor' being destroyed
+[2019.11.28-07.10.29:289][147]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.11.28-07.10.30:656][148]Cmd: QUIT_EDITOR
+[2019.11.28-07.10.31:753][148]LogExit: Preparing to exit.
+[2019.11.28-07.10.34:628][148]LogExit: Editor shut down
+[2019.11.28-07.10.34:703][148]LogExit: Transaction tracking system shut down
+[2019.11.28-07.10.41:224][148]LogExit: Object subsystem successfully closed.
+[2019.11.28-07.10.41:884][148]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.28-07.10.42:198][148]LogD3D11RHI: Shutdown
+[2019.11.28-07.10.42:198][148]LogD3D11RHI: CleanupD3DDevice
+[2019.11.28-07.10.42:617][148]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.28-07.10.42:617][148]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.28-07.10.42:652][148]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.28-07.10.42:652][148]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.28-07.10.42:652][148]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.28-07.10.42:652][148]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.28-07.10.44:210][148]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.28-07.10.49:105][148]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2019.11.28-07.10.49:106][148]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (648)
+[2019.11.28-07.10.49:106][148]LogModuleManager: Shutting down and abandoning module Voice (646)
+[2019.11.28-07.10.49:115][148]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2019.11.28-07.10.49:115][148]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2019.11.28-07.10.49:115][148]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2019.11.28-07.10.49:377][148]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2019.11.28-07.10.49:377][148]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2019.11.28-07.10.49:377][148]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2019.11.28-07.10.49:400][148]LogModuleManager: Shutting down and abandoning module MeshBuilder (632)
+[2019.11.28-07.10.49:400][148]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2019.11.28-07.10.49:464][148]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2019.11.28-07.10.49:494][148]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2019.11.28-07.10.49:658][148]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2019.11.28-07.10.49:676][148]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2019.11.28-07.10.49:814][148]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2019.11.28-07.10.49:841][148]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2019.11.28-07.10.49:850][148]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2019.11.28-07.10.49:850][148]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2019.11.28-07.10.49:869][148]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2019.11.28-07.10.49:878][148]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2019.11.28-07.10.49:929][148]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2019.11.28-07.10.49:930][148]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2019.11.28-07.10.49:930][148]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2019.11.28-07.10.49:954][148]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2019.11.28-07.10.49:954][148]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2019.11.28-07.10.49:954][148]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2019.11.28-07.10.49:962][148]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2019.11.28-07.10.49:962][148]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2019.11.28-07.10.49:976][148]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2019.11.28-07.10.49:988][148]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2019.11.28-07.10.50:007][148]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2019.11.28-07.10.50:007][148]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2019.11.28-07.10.50:007][148]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2019.11.28-07.10.50:007][148]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2019.11.28-07.10.50:013][148]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2019.11.28-07.10.50:023][148]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2019.11.28-07.10.50:023][148]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2019.11.28-07.10.50:024][148]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2019.11.28-07.10.50:230][148]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2019.11.28-07.10.50:231][148]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2019.11.28-07.10.50:340][148]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2019.11.28-07.10.50:377][148]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2019.11.28-07.10.50:401][148]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2019.11.28-07.10.50:401][148]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2019.11.28-07.10.50:414][148]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2019.11.28-07.10.50:414][148]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2019.11.28-07.10.50:428][148]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2019.11.28-07.10.52:044][148]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2019.11.28-07.10.52:044][148]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2019.11.28-07.10.52:045][148]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2019.11.28-07.10.52:045][148]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2019.11.28-07.10.52:045][148]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2019.11.28-07.10.52:045][148]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2019.11.28-07.10.52:087][148]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2019.11.28-07.10.52:133][148]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2019.11.28-07.10.52:150][148]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2019.11.28-07.10.52:154][148]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2019.11.28-07.10.52:155][148]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2019.11.28-07.10.52:164][148]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2019.11.28-07.10.52:175][148]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2019.11.28-07.10.52:188][148]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2019.11.28-07.10.52:198][148]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2019.11.28-07.10.52:207][148]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2019.11.28-07.10.52:208][148]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2019.11.28-07.10.52:208][148]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2019.11.28-07.10.52:227][148]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2019.11.28-07.10.52:235][148]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2019.11.28-07.10.52:251][148]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2019.11.28-07.10.52:264][148]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2019.11.28-07.10.52:273][148]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2019.11.28-07.10.52:365][148]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2019.11.28-07.10.52:501][148]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2019.11.28-07.10.52:552][148]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2019.11.28-07.10.52:612][148]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2019.11.28-07.10.52:612][148]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2019.11.28-07.10.52:647][148]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2019.11.28-07.10.52:648][148]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2019.11.28-07.10.52:757][148]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2019.11.28-07.10.52:932][148]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2019.11.28-07.10.52:932][148]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2019.11.28-07.10.52:932][148]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2019.11.28-07.10.53:132][148]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2019.11.28-07.10.53:350][148]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2019.11.28-07.10.53:351][148]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2019.11.28-07.10.53:351][148]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2019.11.28-07.10.53:376][148]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2019.11.28-07.10.53:453][148]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2019.11.28-07.10.53:477][148]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2019.11.28-07.10.53:532][148]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2019.11.28-07.10.53:532][148]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2019.11.28-07.10.53:629][148]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2019.11.28-07.10.53:629][148]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2019.11.28-07.10.53:629][148]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2019.11.28-07.10.53:629][148]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2019.11.28-07.10.53:721][148]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2019.11.28-07.10.53:788][148]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2019.11.28-07.10.53:788][148]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2019.11.28-07.10.53:818][148]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2019.11.28-07.10.53:818][148]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2019.11.28-07.10.53:818][148]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2019.11.28-07.10.53:823][148]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2019.11.28-07.10.53:921][148]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2019.11.28-07.10.53:941][148]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2019.11.28-07.10.53:941][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2019.11.28-07.10.53:953][148]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2019.11.28-07.10.54:077][148]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2019.11.28-07.10.54:077][148]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2019.11.28-07.10.54:077][148]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2019.11.28-07.10.54:077][148]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2019.11.28-07.10.54:168][148]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2019.11.28-07.10.54:168][148]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2019.11.28-07.10.54:188][148]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2019.11.28-07.10.54:188][148]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2019.11.28-07.10.54:188][148]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2019.11.28-07.10.54:188][148]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2019.11.28-07.10.54:188][148]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2019.11.28-07.10.54:460][148]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2019.11.28-07.10.54:460][148]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2019.11.28-07.10.54:460][148]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2019.11.28-07.10.54:460][148]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2019.11.28-07.10.54:461][148]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2019.11.28-07.10.54:478][148]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2019.11.28-07.10.54:525][148]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.11.28-07.10.54:525][148]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.11.28-07.10.54:525][148]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.11.28-07.10.54:525][148]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2019.11.28-07.10.54:533][148]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2019.11.28-07.10.54:542][148]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2019.11.28-07.10.54:542][148]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2019.11.28-07.10.54:634][148]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2019.11.28-07.10.54:644][148]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2019.11.28-07.10.54:654][148]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.11.28-07.10.54:654][148]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.11.28-07.10.54:654][148]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.11.28-07.10.54:663][148]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.11.28-07.10.54:664][148]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.11.28-07.10.54:664][148]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.11.28-07.10.54:722][148]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.11.28-07.10.54:789][148]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.11.28-07.10.54:846][148]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.11.28-07.10.54:857][148]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.11.28-07.10.54:857][148]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2019.11.28-07.10.54:857][148]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2019.11.28-07.10.54:868][148]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2019.11.28-07.10.54:868][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2019.11.28-07.10.55:145][148]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2019.11.28-07.10.55:145][148]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2019.11.28-07.10.55:145][148]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.11.28-07.10.55:943][148]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.11.28-07.10.56:044][148]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.11.28-07.10.56:476][148]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.28-07.10.56:477][148]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.28-07.10.56:480][148]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.28-07.10.56:571][148]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.28-07.10.56:572][148]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.28-07.10.56:745][148]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.28-07.10.56:745][148]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.28-07.10.56:745][148]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.28-07.10.56:745][148]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.28-07.10.56:887][148]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.28-07.10.56:888][148]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.28-07.10.56:888][148]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.28-07.10.56:888][148]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.28-07.10.57:104][148]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.28-07.10.57:537][148]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.28-07.10.57:645][148]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.28-07.10.57:646][148]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.28-07.10.57:649][148]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.28-07.10.57:703][148]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.28-07.10.57:718][148]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.28-07.10.57:737][148]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.28-07.10.57:738][148]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.28-07.10.57:738][148]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.28-07.10.57:738][148]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.28-07.10.57:772][148]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.28-07.10.57:837][148]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.28-07.10.57:939][148]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.28-07.10.57:940][148]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.28-07.10.57:940][148]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.28-07.10.58:140][148]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.28-07.10.58:140][148]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.28-07.10.58:140][148]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.28-07.10.58:140][148]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.28-07.10.58:216][148]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.28-07.10.58:259][148]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.28-07.10.58:259][148]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.28-07.10.58:425][148]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.28-07.10.58:449][148]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.28-07.10.58:609][148]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.28-07.10.58:725][148]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.28-07.10.58:810][148]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.28-07.10.58:923][148]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.28-07.10.59:022][148]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.28-07.10.59:034][148]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.28-07.10.59:068][148]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.28-07.10.59:068][148]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.28-07.10.59:208][148]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.28-07.10.59:223][148]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.28-07.10.59:236][148]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.28-07.10.59:253][148]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.28-07.10.59:253][148]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.28-07.10.59:295][148]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.28-07.10.59:346][148]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.28-07.10.59:372][148]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.28-07.10.59:455][148]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.28-07.10.59:477][148]LogDerivedDataCache: Shutdown
+[2019.11.28-07.10.59:477][148]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.28-07.10.59:539][148]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.28-07.10.59:576][148]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.28-07.10.59:585][148]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.28-07.10.59:615][148]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.28-07.10.59:706][148]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.28-07.10.59:731][148]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.28-07.10.59:779][148]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.28-07.10.59:807][148]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.28-07.10.59:871][148]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.28-07.10.59:871][148]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.28-07.10.59:895][148]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.28-07.10.59:895][148]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.28-07.10.59:895][148]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.28-07.10.59:895][148]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.28-07.10.59:895][148]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.28-07.10.59:905][148]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.28-07.10.59:914][148]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.28-07.11.00:091][148]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.28-07.11.00:092][148]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.28-07.11.00:123][148]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.28-07.11.00:123][148]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.28-07.11.00:123][148]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.28-07.11.00:228][148]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.28-07.11.00:232][148]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.28-07.11.00:321][148]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.28-07.11.00:322][148]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.28-07.11.01:029][148]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.28-07.11.01:030][148]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.28-07.11.01:031][148]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.28-07.11.01:031][148]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.28-07.11.01:031][148]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.28-07.11.01:032][148]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.28-07.11.01:033][148]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.28-07.11.01:037][148]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.28-07.11.01:037][148]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.28-07.11.01:056][148]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.28-07.11.01:056][148]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.28-07.11.01:066][148]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.28-07.11.01:066][148]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.28-07.11.01:066][148]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.28-07.11.01:066][148]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.28-07.11.01:070][148]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.28-07.11.01:088][148]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.28-07.11.01:155][148]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.28-07.11.01:155][148]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.28-07.11.01:155][148]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA80DEF4-4328-BAB6-F989-FDB5C6D8D37D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=4b0bd7fc48481be355d618962b3e1880%7C5a0617cf7e104474910a902c3a5e0e60%7Cf885f048-f680-485f-a7a7-39a346cea98d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.28-07.11.01:155][148]LogHttp: Warning: 00000231CB839BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.28-07.11.01:155][148]LogHttp: Warning: 00000231CB839BC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.28-07.11.01:155][148]LogHttp: Warning: 00000231CB839BC0: libcurl info message cache 1 (Closing connection 84)
+[2019.11.28-07.11.01:162][148]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.28-07.11.01:221][148]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.28-07.11.01:253][148]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.28-07.11.01:260][148]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.28-07.11.01:274][148]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.28-07.11.01:275][148]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.28-07.11.01:348][148]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.28-07.11.01:619][148]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.28-07.11.01:664][148]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.28-07.11.01:664][148]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.28-07.11.01:664][148]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.28-07.11.01:664][148]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.28-07.11.01:684][148]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.28-07.11.01:729][148]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.28-07.11.01:729][148]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.28-07.11.01:740][148]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.28-07.11.01:741][148]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.28-07.11.01:741][148]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.28-07.11.01:741][148]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.28-07.11.01:759][148]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.28-07.11.01:759][148]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.28-07.11.01:764][148]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.28-07.11.01:764][148]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.28-07.11.01:777][148]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.28-07.11.01:852][148]LogExit: Exiting.
+[2019.11.28-07.11.02:007][148]Log file closed, 11/28/19 16:11:02
